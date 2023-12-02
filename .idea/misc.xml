@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/drawable-v24/dw_login_button_back.xml" value="0.2595" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/drawable-v24/ic_google.xml" value="0.2595" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2595" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/drawable/first.xml" value="0.2595" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_analytics.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_dash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_disease.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_login_user.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_plant_list.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_settings.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/dialog_loading.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/rv_captures.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Syed Issam Bukhari/Documents/fyp stress app/fyp stress ap/app/src/main/res/layout/rv_plants.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
