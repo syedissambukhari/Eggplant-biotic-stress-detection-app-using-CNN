@@ -18,7 +18,7 @@ Raspberry Pi with Flask installed
  # Clone the Repository:
 
 Copy code
-git clone https://github.com/your-username/eggplant-disease-app.git
+git clone [https://github.com/your-username/eggplant-disease-app.git]
 cd eggplant-disease-app
  # Android Studio:
 
