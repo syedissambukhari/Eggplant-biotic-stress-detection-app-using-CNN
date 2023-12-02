@@ -36,11 +36,18 @@ Run the Flask server script.
 # Run the App:
 
 Build and run the Android app in Android Studio.
+
 Ensure the Android device is connected to the same network as the Raspberry Pi.
-Usage
+
+ # Usage
 Open the Android app.
+
 Capture an image of an eggplant leaf with potential disease symptoms.
+
 The app will send the image to the Flask server on the Raspberry Pi.
+
 The Flask server will use the PythonAnywhere API to predict the disease.
+
 Use local host ip address for realtime view
+
 The predicted disease class will be displayed on the Android app.
